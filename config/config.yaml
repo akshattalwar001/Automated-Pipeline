@@ -1,4 +1,4 @@
 youtube:
-  api_key: "AIzaSyDY2cVRjq3LFG_JV139zXT_43LEt8nPdQc"
+  api_key: "paste api key here"
 database:
   path: "data/youtube_trends.db"
